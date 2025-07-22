@@ -10,9 +10,9 @@
 
 - 🤝 I’m looking for help with **pushing 12k in clash royale**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NeSanyok)
+- 👨‍💻 All of my projects are available at: [https://github.com/NeSanyok)
 
-- 📫 How to reach me **click: 9860 1909 1579 9356**
+- 📫 How to reach me -  **click: 9860 1909 1579 9356**
 
 - ⚡ Fun fact: **Tamaam yahudiyon kimot**
 
