@@ -1,6 +1,6 @@
 <h1 align="center">This is Alexandr's git page</h1>
 <p align="center">
- <img src="https://images.app.goo.gl/mUpDSSkjaBrniL2eA">
+ <img src="https://i.ibb.co/wNV1VWpX/IMG-7846.jpg" alt="">
 </p>
 <h3 align="center">rust developer/linux prentice from Uzbekistan</h3>
 
