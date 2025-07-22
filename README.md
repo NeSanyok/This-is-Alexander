@@ -1,6 +1,6 @@
 <h1 align="center">This is Alexandr's git page</h1>
 <p align="center">
- <img src="https://www.flickr.com/photos/rudis323/42995258670/"></a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=122480516/> 
+ <img src="https://images.app.goo.gl/mUpDSSkjaBrniL2eA">
 </p>
 <h3 align="center">rust developer/linux prentice from Uzbekistan</h3>
 
